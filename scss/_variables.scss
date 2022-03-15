@@ -1,0 +1,36 @@
+// Body
+$container-max-widths: (
+        sm: 540px,
+        md: 720px,
+        lg: 960px,
+);
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-family-serif: georgia,serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+$headings-font-family: $font-family-sans-serif;
+$headings-font-weight: lighter;
+$breadcrumb-divider: quote("»");
+
+// Spacing
+$enable-negative-margins: true;
+$small-font-size: .775em;
+
+// Colors
+$primary: #d8b871;
+$dark: #1b2f4d;
+$secondary: #ecf1f8;
+
+.badge {
+    line-height: inherit;
+}
+
+.font-serif {
+    font-family: $font-family-serif;
+}
+
+svg[fill=primary] {
+    fill: $primary!important;
+}
