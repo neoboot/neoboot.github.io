@@ -1,7 +1,5 @@
-<div align="center">
-  ![neoboot logo](https://neoboot.github.io/assets/logo-dark.svg#gh-light-mode-only)
-  ![neoboot logo](https://neoboot.github.io/assets/logo-light.svg#gh-dark-mode-only)
-</div>
+![neoboot Logo](https://raw.githubusercontent.com/neoboot/neoboot.github.io/main/assets/logo-light.svg#gh-dark-mode-only)
+![neoboot Logo](https://raw.githubusercontent.com/neoboot/neoboot.github.io/main/assets/logo-dark.svg#gh-light-mode-only)
 
 # neoboot.github.io
 
