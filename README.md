@@ -1,6 +1,6 @@
 <div align="center">
-<img width="400px" height="100px" src="https://neoboot.github.io/assets/logo-light.svg#gh-light-mode-only">
-<img width="400px" height="100px" src="https://neoboot.github.io/assets/logo-dark.svg#gh-dark-mode-only">
+  ![neoboot logo](https://neoboot.github.io/assets/logo-dark.svg#gh-light-mode-only)
+  ![neoboot logo](https://neoboot.github.io/assets/logo-light.svg#gh-dark-mode-only)
 </div>
 
 # neoboot.github.io
