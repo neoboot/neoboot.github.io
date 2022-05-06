@@ -17,3 +17,5 @@ Free Bootstrap 5 HTML Templates with Sass and Github Pages MIT License.
 - [Bootstrap](https://getbootstrap.com/) · The most popular HTML, CSS, and JS library in the world
 - [unDraw](https://undraw.co/) - Open source illustrations for any idea
 - [BGJar](https://bgjar.com/) | Free svg background image generator for your websites
+- [AOS](https://michalsnik.github.io/aos/) - Animate on scroll library
+- [GitHub Pages](https://pages.github.com/) | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
